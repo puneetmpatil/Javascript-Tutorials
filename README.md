@@ -13,5 +13,5 @@ The following projects were created in the duration of the course
   <li>Calculator</li>
 </ol>
 
-<u>Link to the playlist</u>
+<u>Link to the playlist:</u>
 <a href="https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL">JavaScript Tutorials In Hindi</a>
