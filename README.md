@@ -4,7 +4,6 @@ This repositories contains all the codes and projects which I created as a part 
 ### <u>Projects</u>
 The following projects were created in the duration of the course
 <ol>
-  <li></li>
   <li>Notes Taking Website</li>
   <li>College Library Website</li>
   <li>News Website</li>
