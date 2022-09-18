@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Cabbage",
+        "quantity": "One Unit",
+        "id": 2,
+        "price": 30
+    },
+    {
+        "name": "Capsicum",
+        "quantity": "One Unit",
+        "id": 7,
+        "price": 5
+    },
+    {
+        "name": "Garlic",
+        "quantity": "One Unit",
+        "id": 10,
+        "price": 20
+    },
+    {
+        "name": "Beetroot",
+        "quantity": "One Unit",
+        "id": 11,
+        "price": 20
+    },
+    {
+        "name": "Tomatoes",
+        "quantity": "One Unit",
+        "id": 13,
+        "price": 5
+    },
+    {
+        "name": "Celeriac",
+        "quantity": "One Bunch",
+        "id": 16,
+        "price": 5
+    },
+    {
+        "name": "Carrots",
+        "quantity": "One Kg",
+        "id": 18,
+        "price": 60
+    },
+    {
+        "name": "Onions",
+        "quantity": "One Kg",
+        "id": 19,
+        "price": 120
+    },
+    {
+        "name": "Potatoes",
+        "quantity": "One container",
+        "id": 20,
+        "price": 80
+    }
+]

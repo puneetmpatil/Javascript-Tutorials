@@ -1,0 +1,65 @@
+Installing VS Code, Extensions & Setup
+Console Logs, Errors, Warnings & More
+Variables: let, const & var in JavaScript
+Data Types in JavaScript (Primitive & Reference Types)
+JavaScript Type Conversion & Coercion
+Strings: Properties, Methods & Template Literals in JavaScript
+Arrays and Objects In JavaScript
+If Else Conditionals & Switches in JavaScript
+For, While & Do while Loops in JavaScript
+Functions in JavaScript
+Manipulating Websites Using JS Window Object
+Understanding DOM & Creating a Website Layout
+WebPage Crawler In JavaScript - Exercise 1
+HTML Element Selectors In JavaScript
+Children, Parent & Traversing the DOM
+Creating, Removing & Replacing Elements
+Events & Event Object In JavaScript
+More on JavaScript Events
+Smart Page Crawler In JS Exercise1
+Local & Session storage in JavaScript
+Creating Editable Div Using JavaScript: Exercise 2
+Project 1: Build a Notes Taking Website Using Pure JavaScript
+Math Object In JavaScript 
+Date Object: Date & Time In JavaScript
+Creating an Editable Div Exercise 2: Solution
+Improving Magic Notes Website Exercise 3
+Object Literals, Constructors and Object Oriented JavaScript
+Object Prototype in JavaScript
+Notes App with Title - Exercise 3: Solution
+Prototype Inheritance In JavaScript
+ES6 Classes and Inheritance 
+Implementing a library class - Exercise 4
+Project 2: Building a College Library Website
+What is Asynchronous Programming?
+Ajax tutorial
+Library Class Implementation Exercise 4: Solution
+Callback functions in javascript
+Using a Dictionary API Exercise 5
+Promises Basics, Promise.then() & Promise.catch() 
+Project 3: Creating a News Website
+Arrow Functions in JavaScript
+Fetch api in Javascript 
+Async/Await in Javascript
+Error Handling & Try Catch in Javascript
+Using JavaScript Objects Exercise 5: Solution
+JavaScript Regular Expressions & related functions
+Regular Expressions - Metacharacters in JavaScript
+Regular Expressions - Character sets
+Shorthand character classes (Regular Expressions)
+Project 4: Form Validation using Regular Expressions
+Iterators in JavaScript
+Creating an Alarm App: Exercise 6
+Generators in Javascript
+Alarm Clock In JavaScript 
+Project 5: Creating a CV Screener In JavaScript
+For.. of Loop vs For.. in Loop (When to use which?)
+JavaScript Maps
+JavaScript Sets
+JavaScript Symbols
+JavaScript Destructuring
+JavaScript Wall Clock: Exercise 6
+Creating a Clock: Exercise 6 Solution
+Project 6: PostMan Clone - Creating a Get/Post Request Website 
+Drag & Drop Elements with JavaScript and HTML
+Project 7: Creating a Calculator using HTML, CSS & JS
